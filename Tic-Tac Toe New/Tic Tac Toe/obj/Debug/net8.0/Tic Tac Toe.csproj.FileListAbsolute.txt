@@ -1,0 +1,14 @@
+c:\Users\Kiera\Documents\C# Projects\Tic-Tac Toe New\Tic Tac Toe\bin\Debug\net8.0\Tic Tac Toe.exe
+c:\Users\Kiera\Documents\C# Projects\Tic-Tac Toe New\Tic Tac Toe\bin\Debug\net8.0\Tic Tac Toe.deps.json
+c:\Users\Kiera\Documents\C# Projects\Tic-Tac Toe New\Tic Tac Toe\bin\Debug\net8.0\Tic Tac Toe.runtimeconfig.json
+c:\Users\Kiera\Documents\C# Projects\Tic-Tac Toe New\Tic Tac Toe\bin\Debug\net8.0\Tic Tac Toe.dll
+c:\Users\Kiera\Documents\C# Projects\Tic-Tac Toe New\Tic Tac Toe\bin\Debug\net8.0\Tic Tac Toe.pdb
+c:\Users\Kiera\Documents\C# Projects\Tic-Tac Toe New\Tic Tac Toe\obj\Debug\net8.0\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kiera\Documents\C# Projects\Tic-Tac Toe New\Tic Tac Toe\obj\Debug\net8.0\Tic Tac Toe.AssemblyInfoInputs.cache
+c:\Users\Kiera\Documents\C# Projects\Tic-Tac Toe New\Tic Tac Toe\obj\Debug\net8.0\Tic Tac Toe.AssemblyInfo.cs
+c:\Users\Kiera\Documents\C# Projects\Tic-Tac Toe New\Tic Tac Toe\obj\Debug\net8.0\Tic Tac Toe.csproj.CoreCompileInputs.cache
+c:\Users\Kiera\Documents\C# Projects\Tic-Tac Toe New\Tic Tac Toe\obj\Debug\net8.0\Tic Tac Toe.dll
+c:\Users\Kiera\Documents\C# Projects\Tic-Tac Toe New\Tic Tac Toe\obj\Debug\net8.0\refint\Tic Tac Toe.dll
+c:\Users\Kiera\Documents\C# Projects\Tic-Tac Toe New\Tic Tac Toe\obj\Debug\net8.0\Tic Tac Toe.pdb
+c:\Users\Kiera\Documents\C# Projects\Tic-Tac Toe New\Tic Tac Toe\obj\Debug\net8.0\Tic Tac Toe.genruntimeconfig.cache
+c:\Users\Kiera\Documents\C# Projects\Tic-Tac Toe New\Tic Tac Toe\obj\Debug\net8.0\ref\Tic Tac Toe.dll
